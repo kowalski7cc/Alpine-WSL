@@ -32,9 +32,4 @@
       <Filter>File di risorse</Filter>
     </ResourceCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\Desktop\linux.ico">
-      <Filter>File di risorse</Filter>
-    </Image>
-  </ItemGroup>
 </Project>

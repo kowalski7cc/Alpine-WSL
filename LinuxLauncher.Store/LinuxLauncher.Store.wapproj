@@ -40,8 +40,9 @@
     <DefaultLanguage>it-IT</DefaultLanguage>
     <PackageCertificateKeyFile>LinuxLauncher.Store_TemporaryKey.pfx</PackageCertificateKeyFile>
     <EntryPointProjectUniqueName>..\LinuxLauncher\LinuxLauncher.vcxproj</EntryPointProjectUniqueName>
-    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>x64</AppxBundlePlatforms>
+    <PackageCertificateThumbprint>5A38026EA819C71EFBF0587FA5155363F5F41FA7</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <DefaultLanguage>en-US</DefaultLanguage>
