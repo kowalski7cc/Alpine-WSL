@@ -30,7 +30,7 @@ Feel free to fork and publish new distros!
 
 - [Biswa96/WSLInstall](https://github.com/Biswa96/WSLInstall)
 - [DDoSolitary/LxRunoffline](https://github.com/DDoSolitary/LxRunOffline.git)
-- [yuk7/WSL-DistroLauncher](https://github.com/yuk7/WSL-DistroLauncher.git)
+- [yuk7/wsldl](https://github.com/yuk7/wsldl.git)
 - [0xbadfca11/miniwsl](https://github.com/0xbadfca11/miniwsl.git)
 
 Thank you all!
